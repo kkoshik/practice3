@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin.php
+Disallow: /add_user.php
+Disallow: /edit_user.php
+Disallow: /profile.php
+
+Sitemap: https://ваш-домен.ru/sitemap.xml
