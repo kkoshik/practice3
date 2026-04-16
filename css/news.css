@@ -149,7 +149,7 @@ body {
     display: block;
     margin: 30px auto 0;
     padding: 12px 25px;
-    background: #4CAF50;
+    background: #eb7713;
     color: white;
     border: none;
     border-radius: 5px;
@@ -159,7 +159,7 @@ body {
 }
 
 .show-more-btn:hover {
-    background: #45a049;
+    background: #c46410;
 }
 
 .hidden {

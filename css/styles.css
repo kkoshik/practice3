@@ -271,7 +271,7 @@ body {
     }
 }
 
-@media (min-width: 769px) {
+/* @media (min-width: 769px) {
     .burger-menu {
         display: none;
     }
@@ -291,7 +291,7 @@ body {
         margin: 0 15px;
         font-size: 1rem;
     }
-}
+} */
 
 @media (max-width: 600px) {
     .hero {
